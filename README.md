@@ -1,2 +1,1 @@
-# react-simple-reusable-component
-Reusable Components React
+# Simple Reusable Component React
